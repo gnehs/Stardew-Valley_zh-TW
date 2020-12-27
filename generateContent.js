@@ -2,7 +2,7 @@ const fs = require('fs')
 var result = { "Format": "1.19.0", "Changes": [] }
 function parseStrings(d) {
     for (let item of fs.readdirSync(d)) {
-        if (item.startsWith('.')) continue
+        if (item.startsWith('.') || item.endsWith('.md')) continue
         let itemPath = d + '/' + item
         if (fs.lstatSync(itemPath).isDirectory()) {
             parseStrings(itemPath)
@@ -32,7 +32,7 @@ parseStrings('./Strings/Strings')
 
 function parseFonts(d) {
     for (let item of fs.readdirSync(d)) {
-        if (item.startsWith('.')) continue
+        if (item.startsWith('.') || item.endsWith('.md')) continue
         let itemPath = d + '/' + item
         try {
             result.Changes.push({
@@ -50,7 +50,7 @@ parseFonts('./Fonts')
 
 function parseImgs(d) {
     for (let item of fs.readdirSync(d)) {
-        if (item.startsWith('.')) continue
+        if (item.startsWith('.') || item.endsWith('.md')) continue
         let itemPath = d + '/' + item
         if (fs.lstatSync(itemPath).isDirectory()) {
             parseImgs(itemPath)

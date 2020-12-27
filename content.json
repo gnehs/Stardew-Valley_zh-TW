@@ -11810,11 +11810,6 @@
         },
         {
             "Action": "Load",
-            "Target": "Fonts/README.md",
-            "FromFile": "Fonts/README.md"
-        },
-        {
-            "Action": "Load",
             "Target": "Fonts/SmallFont",
             "FromFile": "Fonts/SmallFont.xnb"
         },
@@ -11927,6 +11922,11 @@
             "Action": "Load",
             "Target": "Maps/winter_town",
             "FromFile": "Images/Maps/winter_town.zh-CN.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Minigames/Intro",
+            "FromFile": "Images/Minigames/Intro.zh-CN.png"
         },
         {
             "Action": "Load",
