@@ -1,8 +1,8 @@
 {
    "Name": "星露谷繁體中文語言包",
    "Author": "gnehs",
-   "Version": "0.0.2",
-   "Description": "將簡體中文替換為繁體",
+   "Version": "0.0.3",
+   "Description": "以熟悉的語言進行遊戲！",
    "UniqueID": "cht.StardewValley",
    "MinimumApiVersion": "2.6",
    "UpdateKeys": [
