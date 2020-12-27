@@ -6,6 +6,7 @@ https://github.com/gnehs/Stardew-Valley_zh-TW/archive/%E8%B9%A6%E8%B9%A6.zip
 - 目前適用版本 `1.15.1`
 - 需要 SMAPI 與 ContentPatcher
 - 下載並解壓縮後放到 `/Mods` 目錄即可
+- 在 macOS 上你可能需要執行此指令才能正常運作 `brew install mono-libgdiplus`
 ## 貢獻指南
 - 各個資料夾內都有相關 `README.md` 可供查閱
 ### 協助翻譯

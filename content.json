@@ -11822,6 +11822,126 @@
             "Action": "Load",
             "Target": "Fonts/SpriteFont1",
             "FromFile": "Fonts/SpriteFont1.xnb"
+        },
+        {
+            "Action": "Load",
+            "Target": "LooseSprites/Billboard",
+            "FromFile": "Images/LooseSprites/Billboard.zh-CN.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "LooseSprites/ControllerMaps",
+            "FromFile": "Images/LooseSprites/ControllerMaps.zh-CN.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "LooseSprites/Cursors",
+            "FromFile": "Images/LooseSprites/Cursors.zh-CN.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "LooseSprites/JojaCDForm",
+            "FromFile": "Images/LooseSprites/JojaCDForm.zh-CN.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "LooseSprites/JunimoNote",
+            "FromFile": "Images/LooseSprites/JunimoNote.zh-CN.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/DesertTiles",
+            "FromFile": "Images/Maps/DesertTiles.zh-CN.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Festivals",
+            "FromFile": "Images/Maps/Festivals.zh-CN.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/fall_beach",
+            "FromFile": "Images/Maps/fall_beach.zh-CN.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/fall_outdoorsTileSheet",
+            "FromFile": "Images/Maps/fall_outdoorsTileSheet.zh-CN.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/fall_town",
+            "FromFile": "Images/Maps/fall_town.zh-CN.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/samshowtiles",
+            "FromFile": "Images/Maps/samshowtiles.zh-CN.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/spring_beach",
+            "FromFile": "Images/Maps/spring_beach.zh-CN.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/spring_outdoorsTileSheet",
+            "FromFile": "Images/Maps/spring_outdoorsTileSheet.zh-CN.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/spring_town",
+            "FromFile": "Images/Maps/spring_town.zh-CN.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/summer_beach",
+            "FromFile": "Images/Maps/summer_beach.zh-CN.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/summer_outdoorsTileSheet",
+            "FromFile": "Images/Maps/summer_outdoorsTileSheet.zh-CN.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/summer_town",
+            "FromFile": "Images/Maps/summer_town.zh-CN.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/townInterior",
+            "FromFile": "Images/Maps/townInterior.zh-CN.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/winter_beach",
+            "FromFile": "Images/Maps/winter_beach.zh-CN.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/winter_outdoorsTileSheet",
+            "FromFile": "Images/Maps/winter_outdoorsTileSheet.zh-CN.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/winter_town",
+            "FromFile": "Images/Maps/winter_town.zh-CN.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Minigames/TitleButtons",
+            "FromFile": "Images/Minigames/TitleButtons.zh-CN.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Minigames/jojacorps",
+            "FromFile": "Images/Minigames/jojacorps.zh-CN.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "TileSheets/furniture.png",
+            "FromFile": "Images/TileSheets/furniture.png"
         }
     ]
 }

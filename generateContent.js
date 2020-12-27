@@ -48,4 +48,28 @@ function parseFonts(d) {
 }
 parseFonts('./Fonts')
 
+function parseImgs(d) {
+    for (let item of fs.readdirSync(d)) {
+        if (item.startsWith('.')) continue
+        let itemPath = d + '/' + item
+        if (fs.lstatSync(itemPath).isDirectory()) {
+            parseImgs(itemPath)
+        } else {
+            // console.log('[LOAD]', itemPath)
+            try {
+                result.Changes.push({
+                    "Action": "Load",
+                    "Target": itemPath.replace('./Images/', '').replace('.zh-CN.png', ''),
+                    "FromFile": itemPath.replace('./', '')
+                })
+            } catch (e) {
+                console.log('[Failed]', itemPath)
+                console.log(e)
+            }
+        }
+    }
+    return true
+}
+parseImgs('./Images')
+
 fs.writeFileSync('content.json', JSON.stringify(result, null, '    '))
