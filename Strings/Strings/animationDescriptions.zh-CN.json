@@ -1,0 +1,41 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "abigail_videogames": "啊啊……我還是不能打通“草原之王的冒險之旅”的第一關！$u",
+        "haley_photo": "%海莉的注意力全在相機上，沒有注意到你。",
+        "harvey_radio": "%哈維現在看起來很忙。",
+        "harvey_examine_left": "待著別動……我要你深吸一口氣。$u",
+        "alex_lift_weights": "啊……沒辦法說話。",
+        "robin_dance": "%羅賓在忙。",
+        "demetrius_dance": "%德米特里厄斯在忙。",
+        "demetrius_read": "我們星露谷這裡可算是與世隔絕。說不定這是一件好事。",
+        "emily_exercise": "鍛鍊很有趣的！",
+        "robin_exercise": "我的手臂很強壯……*喘氣*……但是我的腿還需要再鍛鍊……* 喘氣 *",
+        "caroline_exercise": "別盯著我！我全身紅通通的，到處都是汗。$s",
+        "shane_work": "%謝恩正在努力工作。似乎沒興趣聊天。",
+        "marnie_exercise": "%瑪妮透過一層薄汗朝你微笑。",
+        "jodi_exercise": "呃……吸氣……呃……呼氣。$4",
+        "vincent_read_right": "潘妮小姐說我在去玩之前必須先讀一讀這本書。$s",
+        "penny_wave_left": "這個鎮子很安全，但我還是一直陪孩子們回家。",
+        "sam_guitar": "%山姆正忙著彈吉他。",
+        "sam_gameboy": "等一下……我能過這關。$7",
+        "sam_skateboarding": "%山姆正嘗試迴旋踢。",
+        "sam_pool": "$c。5#唔……如果我用高杆打母球，說不定我能……$7#$e#*唉*……我做得不好。$s",
+        "sam_work": "%山姆正在上班……最好不要給他添麻煩。"
+    }
+}

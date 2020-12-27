@@ -1,0 +1,29 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "fall_11.000": "今天我得去看醫生大叔了……非常好。$7",
+        "winter_17.000": "或許如果其它路都走不通，我會成為一名潛艇艇長。這可能很酷。",
+        "marriage_Fri.001": "甜心，對不起。我在嘗試集中精神…… $7",
+        "marriage_Mon.001": "沒有我在身邊，文森特似乎有點落寞。我曾經經常和他一起玩。",
+        "marriage_Fri.000": "不要告訴我媽媽……但我真的只是過來吃免費午餐的。$h",
+        "fall_11.002": "我剛從醫生辦公室出來。完全健康且精力充沛，跟我預計的一樣。$h",
+        "marriage_Mon.000": "媽媽似乎還好。也許有點過度勞累。",
+        "fall_11.001": "我是個健康的小孩，醫生。我現在可以走了嗎？好無聊啊。",
+        "rain2.000": "在這濕淋淋的日子裡，來一瓶透心涼的Joja可樂再好不過了吧？#$e#說笑呢，哈哈哈。$h"
+    }
+}

@@ -1,0 +1,26 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "23.000": "哼哼……老婆叫我今天去診所看看。",
+        "23.001": "*嘟囔*……沒用的醫生……*嘟囔*",
+        "winter_17.000": "我只是為喝免費咖啡才來這裡的。",
+        "Sun.000": "我從沒信過教，不過……我老了。",
+        "23.002": "那你說我還剩下多長時間，醫生？",
+        "Sun.001": "嘻嘻嘻……我沒做禮拜就來這裡了！希望由巴不要太生氣。$h"
+    }
+}

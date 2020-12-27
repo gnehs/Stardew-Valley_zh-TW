@@ -1,0 +1,53 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Silo": "390 100 330 10 334 5/3/3/-1/-1/-2/-1/null/筒倉/讓你把割下來的草料儲存起來。/Buildings/none/48/128/-1/null/Farm/100/false",
+        "Mill": "388 150 390 50 428 4/4/2/-1/-1/-2/-1/null/磨坊/可以研磨小麥、甜菜、大米。/Buildings/none/64/128/-1/null/Farm/2500/false",
+        "Earth Obelisk": "337 10 86 10/3/2/-1/-1/-2/-1/null/土之圖騰柱/將你傳送到山嶺。/Buildings/none/48/128/-1/null/Farm/500000/true",
+        "Water Obelisk": "337 5 372 10 393 10/3/2/-1/-1/-2/-1/null/水之圖騰柱/將你傳送到海灘。/Buildings/none/48/128/-1/null/Farm/500000/true",
+        "Desert Obelisk": "337 20 88 10 90 10/3/2/-1/-1/-2/-1/null/沙漠圖騰柱/將你傳送到沙漠。/Buildings/none/48/128/-1/null/Farm/1000000/true",
+        "Island Obelisk": "337 10 852 10 91 10/3/2/-1/-1/-2/-1/null/姜島圖騰柱/將你傳送到姜島。/Buildings/none/48/128/-1/null/Farm/1000000/true",
+        "Junimo Hut": "390 200 268 9 771 100/3/2/-1/-1/-2/-1/null/祝尼魔屋/祝尼魔會為你收割小屋周圍的莊稼。/Buildings/none/48/64/-1/null/Farm/20000/true",
+        "Gold Clock": "/3/2/-1/-1/-2/-1/null/黃金時鐘/阻止雜物出現在你的農場。防止籬笆腐爛。/Buildings/none/48/80/-1/null/Farm/10000000/true",
+        "Stable": "709 100 335 5/4/2/-1/-1/-2/-1/null/馬廄/讓你飼養馬匹。包括馬匹。/Buildings/none/64/96/-1/null/Farm/10000/false",
+        "Well": "390 75/3/3/-1/-1/-1/-1/null/水井/用來重裝你的噴壺。/Buildings/none/32/32/-1/null/Farm/1000/false",
+        "Shipping Bin": "388 150/2/1/-1/-1/-1/-1/null/出貨箱/把物品扔到裡面，夜間會售出。/Buildings/none/48/80/-1/null/Farm/250/false/0",
+        "Coop": "388 300 390 100/6/3/1/2/2/2/Coop/雞舍/可容納4隻家禽。/Buildings/none/64/96/4/null/Farm/4000/false",
+        "Big Coop": "388 400 390 150/6/3/1/2/2/2/Coop2/大雞舍/可容納8隻家禽。附帶孵化器。解鎖鴨。/Upgrades/Coop/64/96/8/null/Farm/10000/false",
+        "Deluxe Coop": "388 500 390 200/6/3/1/2/2/2/Coop3/高級雞舍/可容納12隻家禽。附帶自動餵養系統。解鎖兔子。/Upgrades/Big Coop/64/96/12/null/Farm/20000/false",
+        "Barn": "388 350 390 150/7/4/1/3/3/3/Barn/畜棚/可容納4隻家畜。/Buildings/none/96/96/4/null/Farm/6000/false",
+        "Big Barn": "388 450 390 200/7/4/1/3/4/3/Barn2/大畜棚/可容納8隻家畜。可讓家畜產子。解鎖山羊。/Upgrades/Barn/96/96/8/null/Farm/12000/false",
+        "Deluxe Barn": "388 550 390 300/7/4/1/3/4/3/Barn3/高級畜棚/可容納12隻家畜。附帶自動餵養系統。解鎖綿羊和豬。/Upgrades/Big Barn/96/96/12/null/Farm/25000/false",
+        "Slime Hutch": "390 500 338 10 337 1/11/6/5/5/-1/-1/SlimeHutch/史萊姆屋/可飼養20隻史萊姆。裝滿飲水槽，史萊姆就會製造史萊姆球。/Buildings/none/96/96/20/null/Farm/10000/false",
+        "Shed": "388 300/7/3/3/2/-1/-1/Shed/小屋/一棟空的建築。裝入任何你想裝的東西！可以裝飾內部。/Buildings/none/96/96/20/null/Farm/15000/false",
+        "Big Shed": "388 550 390 300/7/3/3/2/-1/-1/Shed2/大屋子/讓屋子的尺寸翻倍。內部可以裝飾。/Upgrades/Shed/96/96/20/null/Farm/20000/false",
+        "Stone Cabin": "390 10/5/3/2/1/-1/-1/Cabin/聯機小屋/朋友的家！由城鎮農業基金補貼。/Buildings/none/96/96/20/null/Farm/100/false/0",
+        "Plank Cabin": "388 5 771 10/5/3/2/1/-1/-1/Cabin/聯機小屋/朋友的家！由城鎮農業基金補貼。/Buildings/none/96/96/20/null/Farm/100/false/0",
+        "Log Cabin": "388 10/5/3/2/1/-1/-1/Cabin/聯機小屋/朋友的家！由城鎮農業基金補貼。/Buildings/none/96/96/20/null/Farm/100/false/0",
+        "Greenhouse": "/7/6/3/5/-1/-1/null/溫室/可全年種植任何季節的作物的地方！/Buildings/none/64/96/-1/null/Farm/-1/false/0/2 6 3 6 4 6 2 7 3 7 4 7",
+        "Mine Elevator": "388 30 390 15 334 5/4/2/1/1/-1/-1/null/礦井電梯/快速在你建造的任何礦場升降機之間傳送。每層礦場你只能設一個。/Buildings/none/64/64/-1/MineElevator/UndergroundMine",
+        "Fish Pond": "390 200 152 5 153 5/5/5/-1/-1/-2/-1/null/魚塘/養魚並收穫水產品。魚會隨著時間的推移而繁殖。/Buildings/none/76/78/10/null/Farm/5000/false/2",
+        "Chicken": "animal/500/64/64/雞/下蛋 美味的蛋兩種顏色。/null/Farm",
+        "Duck": "animal/1000/64/64/鴨/會下蛋，偶爾會掉落鴨毛。/null/Farm",
+        "Rabbit": "animal/1500/64/64/兔子/毛茸茸的兔子！/null/Farm",
+        "Cow": "animal/1000/64/96/牛/產豐富、乳狀的牛奶。/null/Farm",
+        "Sheep": "animal/1500/64/96/綿羊/剃下來的動物毛非常值錢。/null/Farm",
+        "Goat": "animal/1500/64/96/山羊/產美味可口的羊奶。/null/Farm",
+        "Pig": "animal/2000/64/96/豬/經過特別的尋找松露訓練。/null/Farm"
+    }
+}

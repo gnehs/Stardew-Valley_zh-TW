@@ -1,0 +1,28 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "marriage_Mon.002": "我希望潘妮能早日結婚。",
+        "winter_16.000": "哇，這件事上，科技真神奇！",
+        "marriageJob.000": "我在工作，甜心！不要讓醫生看見。",
+        "marriageJob.002": "我快下班了……",
+        "marriage_Mon.001": "爸爸的實驗取得了長足進展。",
+        "summer.000": "想理解宇宙的規模真的很難。$8",
+        "marriage_Mon.000": "嘿！沒有我的幫助，媽媽似乎也能做得很好。她是一名堅強的女性。",
+        "marriageJob.001": "很高興你來看我。$h"
+    }
+}

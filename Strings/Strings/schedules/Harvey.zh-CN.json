@@ -1,0 +1,27 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Fri.000": "這東西肯定能納入健康飲食。",
+        "marriageJob.000": "嗨，甜心！你來診所幹嘛？#$e#啊，你是來看我的吧。真貼心。$h",
+        "Fri.001": "我正準備把這些食品儲存起來。",
+        "marriage_Mon.001": "流水的聲音讓我感到心曠神怡。",
+        "marriage_Mon.000": "嗨！我只是在購買一些必需品，這樣我就可以繼續為我們烹調健康美食。",
+        "Sat.000": "我正準備把這些食品儲存起來。",
+        "winter_15.000": "冬季可能個沉悶的季節，但是像這樣的活動能讓它變得明亮！"
+    }
+}

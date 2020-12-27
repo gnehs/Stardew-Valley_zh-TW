@@ -1,0 +1,29 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "marriage_Fri.001": "嗯……我不得不說，Joja超市有更好的冷凍食品選擇。",
+        "marriage_Mon.001": "我在這些樹林裡留下了……很多的回憶……",
+        "marriage_Fri.000": "別擔心，這只是Joja可樂。",
+        "marriage_Fri.002": "如果我不偶爾買一杯冷啤酒，格斯會歇業的。我只是在履行我的公民義務。我會在10點左右回家。",
+        "marriage_Mon.000": "哦，嘿，@。開始想我了嗎？$6",
+        "winter_15.000": "為了賈斯，我今晚就不去酒吧了...",
+        "marriage_Sun.000": "這裡的味道很難聞。",
+        "marriage_Sun.001": "我手裡有可樂塊……我應該選經典Joja還是藍色Joja？我大概要在這裡待一會……",
+        "marriage_Fri.003": "我就再玩一局……$h"
+    }
+}

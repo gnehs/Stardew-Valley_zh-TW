@@ -1,0 +1,26 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "winter_18.000": "我覺得賈斯挺喜歡看醫生的。真是不尋常的女孩。",
+        "fall_18.000": "呃……哈維醫生？你一定會保密的吧？",
+        "Tue.000": "今晚可以睡個好覺了。$h",
+        "winter_18.001": "我們約在了下午一點半。",
+        "winter_18.002": "呃……哈維醫生？你什麼時候給她打針呢？我們能要兩根棒棒糖嗎？",
+        "winter_16.000": "哦哦 ...精美的紫綢。你在Joja超市可沒辦法買到！"
+    }
+}

@@ -1,0 +1,42 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Bookcase_Menu": "要看哪一本書？",
+        "Bookcase_Basics": "基礎知識",
+        "Bookcase_MakingFriends": "交朋友",
+        "Bookcase_Improvements": "改進",
+        "TV_Menu": "選擇想要觀看的節目：",
+        "TV_Weather": "天氣",
+        "AncientFruitPot": "她的根長得很深...她在那裡不會高興。",
+        "TV_Fortune": "每日占卜",
+        "CaskNoCellar": "僅限地窖中使用。",
+        "DarkTalisman": "黑暗護身符",
+        "MagicInk": "魔法墨水",
+        "MagnifyingGlass": "放大鏡",
+        "BearPaw": "熊的知識",
+        "SpringOnionBugs": "青蔥技術",
+        "SpecialCharm": "特殊魅力",
+        "CatalogueDescription": "讓你不出門就能買到各式各樣的壁紙和地板！",
+        "FurnitureCatalogueDescription": "讓你不出門就能買到各式各樣的家具！",
+        "DarkTalismanDescription": "你找到了{0}！它沾滿了蟲泥……",
+        "MagicInkDescription": "你找到了法師遺失的{0}！最好把它還給法師。",
+        "MagnifyingGlassDescription": "你收到了{0}！你現在有能力找到“秘密紙條”。這些紙條揭示了珍貴且實用的訊息，可在你的收藏選項卡中查看。",
+        "SpecialCharmDescription": "你收到了{0}！你會感覺到有福氣光環環繞著自己（運氣永久增加）！",
+        "ParsnipSeedPackage_SomeoneElse": "這個包裹屬於其他人。"
+    }
+}

@@ -1,0 +1,29 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "summer_4.000": "該死……我差點忘了。我今天要去看哈維醫生。",
+        "Fri.000": "要不要讓山姆贏一次呢？……算了吧。$h",
+        "marriage_Fri.001": "我的技術沒有下降……山姆還是那麼菜。$h",
+        "summer_4.001": "你怎麼進來了？說不定我沒穿衣服呢！$a",
+        "marriage_Mon.001": "我一走進來，媽媽的神色就好了不少。她應該得到幸福。$7",
+        "marriage_Fri.000": "我今晚要和我的老朋友一起玩。晚點回家。",
+        "marriage_Mon.000": "一站在這裡我就想抽上一支菸…………但我已下決心戒菸了。",
+        "rain.000": "觀海最好獨自一人……你覺得呢？",
+        "winter_16.000": "我在晚上感覺更放鬆...我甚至可能會購買飾品。"
+    }
+}

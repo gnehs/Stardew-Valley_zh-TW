@@ -1,0 +1,36 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "TryingToSleep": "{0}想要睡覺",
+        "MoodMessage_NewHome_Baby_Male": "{0}才剛出生，未免有點笨拙。他對新世界充滿好奇。",
+        "MoodMessage_NewHome_Baby_Female": "{0}才剛出生，未免有點笨拙。她對新世界充滿好奇。",
+        "MoodMessage_NewHome_Adult_Male_1": "{0}充滿好奇，但是有點謹慎。他在逐漸適應新的家。",
+        "MoodMessage_NewHome_Adult_Male_2": "{0}充滿好奇，但是有點謹慎。對她來說，這是個陌生的新世界。",
+        "MoodMessage_NewHome_Adult_Female_1": "{0}充滿好奇，但是有點謹慎。她在逐漸適應新的家。",
+        "MoodMessage_NewHome_Adult_Female_2": "{0}充滿好奇，但是有點謹慎。對她來說，這是個陌生的新世界。",
+        "MoodMessage_LeftOutsideAtNight_Male": "{0}昨晚被關在房子外面……他很生氣。",
+        "MoodMessage_LeftOutsideAtNight_Female": "{0}昨晚被關在房子外面……她很生氣。",
+        "MoodMessage_DisturbedByDog_Male": "{0}今天似乎很緊張不安。昨晚應該發生了些事情。",
+        "MoodMessage_DisturbedByDog_Female": "{0}今天似乎很緊張不安。昨晚應該發生了些事情。",
+        "MoodMessage_Hungry1": "{0}看樣子很生氣。",
+        "MoodMessage_Hungry2": "{0}看起來有點瘦。",
+        "MoodMessage_Sad": "{0}看起來悲傷。",
+        "MoodMessage_Fine": "{0}看起來心情不錯。",
+        "MoodMessage_Happy": "{0}看起來心情很不錯！"
+    }
+}

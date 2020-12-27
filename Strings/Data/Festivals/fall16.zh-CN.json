@@ -1,0 +1,67 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "name": "星露谷展覽會",
+        "conditions": "Town/900 1500",
+        "set-up": "fallFest/-1000 -1000/farmer 12 54 1/changeToTemporaryMap Town-Fair/viewport -1000 -1000/loadActors Set-Up/advancedMove Vincent true -3 0 2 5000 3 0 2 5000/advancedMove Jas true 2 0 4 5000 -2 0 4 5000/advancedMove Marnie true -2 0 4 5000 2 0 2 5000/advancedMove Abigail true 4 6000 5 0 0 3 2 6000 0 -3 -5 0/advancedMove Robin true 0 1 1 5000 0 -2 3 5000 0 1 1 5000/animate Sebastian false true 200 16 16 16 16 16 16 16 16 16 16 16 16 17 18 19 20 21 21 21 21 20 22 22 23/addTemporaryActor BabyPig 32 32 65 68 2 false Animal/addTemporaryActor Pig 32 32 65 70 3 false Animal/addTemporaryActor White_Chicken 16 16 59 67 2 false Animal/addTemporaryActor Brown_Chicken 16 16 61 67 2 false Animal/addTemporaryActor White_Cow 32 32 59 72 0 false Animal/addTemporaryActor BabyWhite_Cow 32 32 61 72 1 false Animal/advancedMove BabyPig true 0 1 3 5000 0 -1 0 7000/advancedMove Pig true 3 5000 0 1 1 5000 0 -1 3 5000/advancedMove White_Chicken true 1 0 2 7000 -1 0 2 10000/animate Brown_Chicken false true 500 16 17/viewport 22 22 true unfreeze/globalFadeToClear/pause 2000/playerControl fair",
+        "Abigail_spouse": "去年我打通了這些遊戲！$h",
+        "Leah_spouse": "去年我學會了羅賓的所有技巧，但她總是領先我一步！",
+        "Maru_spouse": "嗯……有機會在三明治烤肉派對上大吃特吃了。",
+        "Penny_spouse": "希望我們能贏得農莊展覽大賽！",
+        "Haley_spouse": "你記得為我們的農莊展覽帶來好東西嗎？我希望我們今年能贏。",
+        "Sebastian_spouse": "嘿， @。我正好碰上了山姆。去盡情玩耍吧。",
+        "Sam_spouse": "塞巴斯蒂安還是老樣子。你在節日裡玩得開心嗎？",
+        "Alex_spouse": "我正好碰上了一些老朋友……你繼續玩得開心。",
+        "Harvey_spouse": "你準備好回家時我會在這裡等你……",
+        "Elliott_spouse": "煙薰香氣吸引我來這，但真正留我在這的是辣醬……*咯咯聲*$s",
+        "Abigail": "我已經通關了所有遊戲。現在幹什麼？",
+        "Robin": "木工活是一項傳統工藝，我很自豪能參與其中。$h",
+        "Demetrius": "羅賓做木工事做得很用心……她值得被人們認可。",
+        "Maru": "*咕嚕* 太美味了。這烤肉醬太好吃了。$h",
+        "Sebastian": "今天真是嘈雜……我要在這清靜一會。",
+        "Pierre": "我的店裡有全谷質量最好的商品。請來好好看看我的農莊展覽！",
+        "Caroline": "皮埃爾非常重視他的農莊展覽。他為了準備這個已經預留了好幾週最好看的產品。#$e#嘿，如果你也參展的話，祝你好運！",
+        "Linus": "這些動物不會以貌取人。但是人類就不一樣了。",
+        "Alex": "我玩了太多次“力量”遊戲，現在我的手臂軟得跟橡膠一樣。",
+        "George": "唔……煙燻火雞腿肉？我想這個慶典並沒有那麼糟。$h",
+        "Evelyn": "希望格斯能提供素食套餐。比如來點翠玉瓜串什麼的？",
+        "Lewis": "好吧 @，今天是個大日子……我們年度最重要的節日，“星露谷展覽會”。#$b#如果您想通過辦農莊展覽參與其中，我已經為您留了一個空位。在您一切準備完畢後告訴我，這樣我們就可以開始評比了。",
+        "Clint": "我有時會抱怨我的工作，但我還是為我的工作感到自豪。#$b#這是一些我最好的作品。希望你喜歡。",
+        "Emily": "你知道嗎，我本會成為一名相當不錯的小丑。可我卻錯過了。",
+        "Penny": "我連續贏了10把幸運轉輪，然而現在那個人不讓我再玩了……$s",
+        "Pam": "最好快點，孩子……在老潘姆來這裡之前把帳篷裡所有大魚都釣走！呵呵。$h",
+        "Haley": "你去過占卜師那裡嗎？她把攤位設在墓地裡。#$e#我已經去過了……她告訴我一些……有趣的事。* 呵呵笑 *$h",
+        "Jodi": "他看起來不開心……我猜鎮長劉易斯今年不得不為了削減成本而請了一個廉價的小丑。",
+        "Kent": "我在等著看小丑的滑稽表演。#$e#相當令人失望。",
+        "Sam": "嘿， @。玩得開心嗎？#$e#彈弓棚超好玩的，如果你擅長這個的話，你可以賺好多星星幣。",
+        "Leah": "我真的很佩服羅賓的木工手藝。我平時做事也經常用到。",
+        "Shane": "所有這些動物都很友好，並且喜歡被人撫摸。",
+        "Marnie": "我已經盡我所能，但相比皮埃爾，我的展覽差遠了。$s#$e#好吧，也許評委們會因為這一大個乳酪圈給我加分。",
+        "Elliott": "我試圖讓格斯告訴我他的醬汁的配方，但是他不鬆口",
+        "Gus": "想吃多少就吃多少！今天全部免費……鎮長劉易斯的一份心意。$h#$e#噢！噢！別忘了在上面滴幾滴我的秘制醬料。",
+        "Dwarf": "地面上下雨了？*喘氣*#$e#下雨……這是個很陌生的概念。我們大部分人一輩子都沒經歷過下雨。",
+        "Wizard": "我和維爾維克認識很久了……她是個出色的占卜師，也是我的好朋友。#$e#……#$e#那個小丑……我在什麼地方見過他。#$e#是在幻想學院？還是秘密狂歡節？唔……",
+        "Harvey": "離這裡幾步遠的地方，格斯正在烤很多豬排……啊呀。$s#$e#我要自我反省一下……$11",
+        "Sandy": "聽說家鄉在下雨。你是為避雨才跑來這裡的嗎？$h#$e#話說我有點懷念雨景了……$s",
+        "Jas": "嗷!有隻母雞啄了我的小拇指！$u",
+        "Vincent": "哞!",
+        "Marlon": "克林特的劍一年比一年鋒利。#$e#他的價格也是這樣……",
+        "Willy": "你準備辦一個農莊展覽嗎？ @?這是你展示%farm農場裡所有好產品的機會！",
+        "Leo": "哈哈！我以前從未見過這樣的東西……$h"
+    }
+}

@@ -1,0 +1,24 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "winter_16.002": "我的肺怎麼樣了？醫生。有時候我呼吸都會像破風箱一樣。",
+        "winter_15.000": "我明天約了看醫生...或許美人魚秀能讓我平靜下來？但是，如果他們認為我在嘀咕...*咽口水*...會怎麼樣？",
+        "winter_16.001": "我要去找醫生檢查我的肺……在總是吸入煤灰的環境裡肯定好不了。",
+        "winter_16.000": "我今天約了醫生，你想買東西就要趕緊了。"
+    }
+}

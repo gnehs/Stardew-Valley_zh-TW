@@ -1,0 +1,24 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "fall_4.000": "看醫生總是讓我緊張得要死……要是我活不久了怎麼辦？這個世界我還沒待夠呢！",
+        "fall_4.001": "是肝出問題了吧，醫生？我從你臉上瞧出來的。*唉* ……我真該少喝點香甜可口的星露谷紅酒了。$s",
+        "Mon.000": "我要給酒館進點貨。皮埃爾店裡的商品就很不錯。$h",
+        "Sun.000": "嘿，@。不好意思……遊戲結束前酒吧不會開放。"
+    }
+}

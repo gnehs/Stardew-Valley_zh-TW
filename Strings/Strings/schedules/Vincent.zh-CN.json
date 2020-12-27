@@ -1,0 +1,24 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "winter_16.000": "我想坐那條船！",
+        "spring_11.001": "* 深呼吸 * ……媽咪，別逼我。$s",
+        "spring_11.002": "我這麼勇敢，能不能得到棒棒糖？",
+        "spring_11.000": "*抽泣*……我今天要打針。$s"
+    }
+}

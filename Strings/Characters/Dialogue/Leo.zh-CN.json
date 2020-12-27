@@ -1,0 +1,30 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Mon": "嗨……一切都好嗎？",
+        "Mon4": "從我的鸚鵡家族那裡，我學到了很多東西……#$b#但我很確定，在外面的世界裡還有更多我不知道的東西。$s",
+        "Tue": "太陽發怒、烈日當頭的時候，待在叢林中就很舒服。#$e#躲在葉子下面，太陽就找不到我們了。我們把他給耍了！哈哈……$h",
+        "Wed": "……抱歉……我今天有點不好意思。$3",
+        "Wed2": "在火山裡要小心……精靈不喜歡外來者。",
+        "Thu": "你有見過其他那些和你一樣的人嗎？#$b#我不怎麼跟他們說話，和我自己的同類待在一起，我感覺更安全……$3",
+        "Fri": "有一天晚上……我在火山頂端，我看到遠處有光亮。#$b#我想知道，那裡是不是住著其他的鳥兒家族？$3",
+        "Fri3": "我在想，我能不能在火山頂端望見你的家？",
+        "Sat": "……我今天很傷心。$s#$e#你繼續……找樂子吧。讓我傷心就好。$s",
+        "Sun": "在下雨的時候，會有陌生的鳥兒來訪。#$b#我試著跟它們說話……但它們飛走了。$s#$b#我猜，它們不想交朋友……$s"
+    }
+}

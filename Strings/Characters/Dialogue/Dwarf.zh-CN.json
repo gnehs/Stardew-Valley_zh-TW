@@ -1,0 +1,32 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Introduction": "嘿，你身為一個人類，還真是擅長採礦啊。",
+        "Mon": "這些東西都是地上撿的。就是晚上從你們那裡拿來的。#$e#嗯？你說的\"私人財產\"是什麼？",
+        "Tue": "啊……煮山洞蘿蔔、烤山洞蘿蔔、山洞蘿蔔湯還有焗山洞蘿蔔。#$e#……還有讓夜晚變得甜蜜的山洞蘿蔔布丁蛋糕#$e#什麼？",
+        "Wed": "嘿，要買點什麼嗎？",
+        "Wed_6": "很久以前，人們就知道了先進技術的秘密。考古學上的證據可以證明這一點。#$e#可是我搞不懂這些知識人們都是從何處得來的？又產生了什麼成果？我覺得有些問題可能永遠沒有答案……",
+        "Thu_4": "在地下感覺最舒服了。#$e#越深越好啊。",
+        "Fri": "你以前沒見過矮子嗎？",
+        "Sat_8": "礦井可是個危險的地方。小心啊，朋友。",
+        "Sat": "礦井裡很危險啊。不如在我的店裡買點東西確保安全吧？",
+        "Sun": "有機會你得告訴我這個被你稱為“牛奶”的飲料的一切啊。",
+        "Thu": "你不會是暗影人派來的間諜吧？#$e#我可盯著你呢。",
+        "Fri_2": "人們都對未知的事物感到恐懼…… 那就是為什麼我要把店藏在這裡。#$e#你的開採技巧已經證明你值得我的信任了。"
+    }
+}

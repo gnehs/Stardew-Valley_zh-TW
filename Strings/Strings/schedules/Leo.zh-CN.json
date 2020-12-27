@@ -1,0 +1,25 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "winter_15.000": "我喜歡盯著燈看。#$b#會讓我會回想起很久以前的事情……$s",
+        "winter.000": "我要翻遍圖書館裡的每一本書，應該會花上很長時間。#$b#我還要做很多事情才能趕上……$s",
+        "school": "@，我現在沒空聊天。我得集中注意力……",
+        "dinner": "啊，你覺得餓嗎？我已經把飯菜都吃掉了……$u",
+        "tent": "我們不是很在意下雨，不過有時候在這裡曬曬乾也挺不錯。"
+    }
+}

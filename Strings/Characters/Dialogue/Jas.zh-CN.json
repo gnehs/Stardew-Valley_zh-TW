@@ -1,0 +1,44 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Introduction": "……$u#$b#你好……$u",
+        "Resort_Entering": "我看到螃蟹了！",
+        "Resort_Leaving": "我鞋裡進沙子了……$s",
+        "Resort_Shore": "我在收集貝殼……我要做一條項鍊！",
+        "Resort": "瑪妮姑媽叮囑我別曬傷了……但如果我走得夠快，就會感覺很涼爽，所以應該沒事的。$h",
+        "reject_869": "哎呀，噁心！$s",
+        "Mon": "哦……你是在找瑪妮姑媽嗎？$u",
+        "Mon4": "嗨，@先生。^嗨，@女士。#$e#農場生活是很有趣的哦。$h",
+        "Tue": "什麼？* 呵呵笑 *$h#$e#……嗨。",
+        "Tue6": "想玩我的娃娃的話不用客氣。但是玩完別忘了給她們梳頭髮。",
+        "Wed": "……$u",
+        "Wed2": "……嗨。$u",
+        "Wed4": "瑪妮姑媽6點之後不讓我出門了。這不公平！$s#$e#我早就不怕黑了！",
+        "Thu": "我不該和陌生人說話……$u",
+        "Thu2": "潘妮小姐在教我連筆字。$h#$e#她的書法真好。",
+        "Fri": "……我不認識你。$u",
+        "Fri2": "你喜歡我的蝴蝶結嗎？",
+        "Fri4": "我喜歡住在農場……用自家產牛奶做出來的新鮮牛奶冰淇淋是我的最愛！",
+        "Sat": "你身上有青草的味道。$u",
+        "Sat2": "我有時會去河裡捉小龍蝦。別告訴瑪妮姑媽……但是我有一次餵一頭牛吃了一隻。#$e#她可喜歡了。",
+        "Sat8": "你總是這麼好， @$h先生^你總是這麼好， @女士。$h#$e#大人們總是刻薄又無聊，但是你不會。",
+        "Sun": "嗯……你……你想要點什麼？$u#$e#我不該和陌生人說話。$u",
+        "Sun2": "謝恩經常不在，瑪妮姑媽又很忙……所以我得自己發明遊戲。#$e#感謝我的玩具們。$h",
+        "Sun10": "你知道嗎？謝恩是我的教父。他是我父母的朋友。$s#$e#……他們都去世了。*啜泣*$s"
+    }
+}

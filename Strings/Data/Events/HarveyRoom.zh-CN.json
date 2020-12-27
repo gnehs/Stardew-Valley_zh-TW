@@ -1,0 +1,21 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "normal": "pause 400/speak Harvey \"抱歉，我邋邋遢遢的……我不知道你要過來。$h\"/move farmer 0 -2 0/pause 600/speak Harvey \"嘿，我好像聽見頭上有飛機聲……\"/move Harvey 0 1 3/move Harvey -3 0 0/move Harvey 0 -2 0/speak Harvey \"@，快過來！\"/move farmer 0 -1 3/move farmer -4 0 0/move farmer 0 -2 0/speak Harvey \"快看！\"/globalFade/cutscene plane/viewport -1000 -1000/speak Harvey \"小時候，我的夢想就是當飛行員。\"/pause 1000/speak Harvey \"但因為我視力不好，而且極度懼高，這個夢想已經漸漸暗淡了。$s\"/faceDirection Harvey 3/faceDirection farmer 1/viewport 5 6 true/pause 1000/emote farmer 28/speak Harvey \"沒事的……不用傷心。#$b#我長大了，能接受自己人生的定位了。不是所有人都能實現夢想的……世界就是這樣的。\"/pause 1600/speak Harvey \"嘿，你來看看我的飛機模型。我剛剛完成新的TR-星鳥豪華版。$h\"/advancedMove Harvey false 0 2 4 0/faceDirection farmer 2/end"
+    }
+}

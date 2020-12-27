@@ -1,0 +1,29 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Fri.000": "終於……有了一點自己的時間。",
+        "Sun.000": "前任房主建造了祭壇室。我們不信宗教，但我們會讓其他鎮民隨意使用。",
+        "fall_25.002": "抱歉，我需要和哈維醫生私下談談……$u",
+        "Tue.000": "唔……嗯……我是不是應該為今天的有氧運動聚會特地打扮下？",
+        "Tue.001": "你看起來好健康啊，喬迪！練啞鈴真的很管用吧？",
+        "fall_25.000": "今天是我年度體檢的日子。至少我不用走很遠。",
+        "fall_25.001": "你也是來看醫生的？發生了什麼事？",
+        "Tue.002": "唔……我想我今天能吃點餅乾了。*咂巴*。",
+        "winter_16.000": "今晚，我要完成全部假日購物！如果你看到皮埃爾來了，告訴我..."
+    }
+}

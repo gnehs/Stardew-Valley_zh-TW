@@ -1,0 +1,30 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Fri.000": "弄了一整天的鹹魚，我都要渴死了。",
+        "spring_9.001": "呃，有個魚鉤卡在我拇指裡面了……醫生會把它取出來的。",
+        "winter_17.000": "啊，在又冷又暗的一天之後，唯有熱飲才能讓人放鬆...",
+        "spring_9.002": "嗷！好痛啊，醫生！$s",
+        "spring_9.000": "我今天約了醫生，你想買東西就要趕緊囉。",
+        "spring_9.003": "我需要暖暖身，以應對冰冷的海夜。$h",
+        "Sat.000": "啊……大冷天捕魚之後來一口熱酒真是太爽了。$h",
+        "winter_15.000": "由於夜市還沒有撤，我無法安然入睡...呃，但沒關係。我很靈活。",
+        "winter.000": "我需要暖暖身，以應對冰冷的海夜。$h",
+        "winter_16.000": "你坐過深海潛艇嗎？艇長是老朋友。"
+    }
+}

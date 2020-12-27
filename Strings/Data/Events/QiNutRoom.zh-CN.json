@@ -1,0 +1,21 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "10040609": "clubloop/7 4/farmer 7 8 0 MrQi 7 4 0/skippable/move farmer 0 -2 0/pause 3000/speak MrQi \"哦喲喲……看看是誰找到了我的隱藏核桃房間。\"/pause 1000/faceDirection MrQi 1 true/pause 100/faceDirection MrQi 2/pause 1000/speak MrQi \"實在了不起。#$b#儘管你只需要一小部分核桃就可以在島上自由地通行，但是你還是更進了一步。#$b#你進入這扇隱藏門的渴望極為強烈，所以付出超過常人的努力到達了這裡。#$b#這份熱忱讓你出類拔萃，孩子。你擁有特別的能量。\"/pause 1000/faceDirection MrQi 3 true/pause 100/faceDirection MrQi 0/pause 500/speak MrQi \"話雖如此……#$b#你不會以為挑戰就到此為止了吧？#$b#並沒有……哈、哈、哈……事實上，挑戰才剛剛開始。\"/faceDirection MrQi 3 true/pause 40/faceDirection MrQi 2/pause 1000/faceDirection MrQi 3/speak MrQi \"在你的左手邊有一塊看板，上面有一些很有趣的機遇。#$b#這些挑戰是我專門為你設計的，它們會讓你挑戰極限。\"/faceDirection MrQi 2/speak MrQi \"不過，如果能攻克我的挑戰，你會獲得一種獨特的貨幣……我稱之為“齊鑽”。\"/pause 400/speak MrQi \"記得別把它們放到嘴裡，孩子……它們放射性很強。呵、呵、呵……\"/emote farmer 28/pause 500/faceDirection MrQi 1/speak MrQi \"你可以在右手邊的機器上用齊鑽兌換一些罕見而且強大的獎勵。\"/pause 1000/faceDirection MrQi 2/speak MrQi \"聽起來是不是很有趣？#$b#是啊……我覺得像你這樣的人會覺得很有意思，很有意思……\"/pause 400/faceDirection MrQi 1 true/pause 50/faceDirection MrQi 0/pause 500/speak MrQi \"好了，我還有更重要的事情要做……告辭。\"/pause 2000/end"
+    }
+}

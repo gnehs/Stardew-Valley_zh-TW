@@ -1,0 +1,36 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Fri.000": "好可愛的織布機啊。我肯定是在天堂裡。",
+        "marriage_Mon.002": "沒有我在身邊，格斯好像組織任何事情都會出問題。",
+        "winter_11.000": "大多數人都會找醫生做年檢。",
+        "marriage_Fri.001": "我來這裡聞水果的味道。",
+        "winter_11.001": "醫生，如果可能的話，我想用“自然療法”。",
+        "marriage_Mon.001": "今天我打算多走走。感覺腿都要軟了。",
+        "marriage_Fri.000": "我正尋找美人魚。",
+        "marriage_Mon.000": "拜訪老房子是很棒的事情。它充滿了回憶。",
+        "marriage_Fri.002": "星期五晚上是高峰期，所以我顧及舊情也來幫幫忙。真有意思!$h",
+        "winter_15.000": "我認為這條船是我的最愛。它如此獨特！",
+        "Sandy_Birthday_Greeting": "你好呀，桑迪！這是我給你準備的禮物。希望你喜歡！$h",
+        "Sandy_Birthday_Hangout": "今天終於可以不用做事了！$h#$e#我滿足了。",
+        "Sandy_Birthday_Lake": "呼……真熱！#$e#今天挺適合去游泳的。#$e#肯定會很涼爽！$h",
+        "Sandy_Birthday_Bones": "這是什麼奇妙的地方？#$e#太神秘了……",
+        "Sandy_Birthday_Camel": "我喜歡和動物待在一起。#$e#這個世界充斥著幽靈與魔法。",
+        "Sandy_Birthday_Bye": "太開心了！#$b#真想快點再來玩！$h"
+    }
+}

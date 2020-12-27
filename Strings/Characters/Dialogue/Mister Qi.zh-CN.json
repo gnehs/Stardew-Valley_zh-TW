@@ -1,0 +1,34 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Mon": "繼續努力，孩子。你一定會功成名就的。#$e#需要什麼東西的話，只管告訴我就是了。",
+        "Tue": "我就知道你總有一天會到這裡。當然，為了能讓你更加努力，我稍微提升了一點難度。",
+        "Wed": "我出生時也只是個普通的男孩子。但我從小就下定主意，要變得更加出色。",
+        "Thu": "嘿。你可不要到處跑來跑去，宣揚這個地方，知道嗎？這裡可是我的……秘密基地呢。#$e#就請你為了我，保守這個秘密吧？",
+        "Fri": "永遠不要放棄努力。#$e#做什麼事情都要做到盡善盡美。",
+        "Sat": "想要放鬆的時候，就來這裡吧。",
+        "Sun": "繼續努力，總有一天你也會像我一樣。",
+        "QiNutRoom_Mon": "孩子，世界並不只有視力所及的範圍。總有一天，你會明白的。#$b#現在，你只要在做每一件事情時精益求精就好。",
+        "QiNutRoom_Tue": "孩子，我是通過純粹的意志力來到我所處的位置的。#$b#你看……頭腦是一件十分強大的工具。#$b#事實上，它是整個現實世界中最為強大的工具……甚至不僅僅止於現實世界。",
+        "QiNutRoom_Wed": "我驚訝於你的頑強，孩子……想要到這裡可是需要很多核桃的。",
+        "QiNutRoom_Thu": "無論你走到哪……我總會在帷幕之後，確保好戲在上演。哈哈哈……#$b#不過……是這樣嗎？",
+        "QiNutRoom_Fri": "將你的目光落在最遙遠的星星上，然後把它當作你的目標。#$b#你總是能夠百尺竿頭更進一步，超出你原本以為的極限。",
+        "QiNutRoom_Sat": "有些東西超越了時間與空間，孩子。這是內心深處的一種獨特感受……是來自遙遠之物的低語。",
+        "QiNutRoom_Sun": "在左邊，你能找到一塊板子，上面有我的特殊挑戰……是專門為你量身訂製的，孩子。#$b#在右邊，有很多獎賞，專門留給那些完成挑戰的人……#$b#祝你好運，孩子。"
+    }
+}

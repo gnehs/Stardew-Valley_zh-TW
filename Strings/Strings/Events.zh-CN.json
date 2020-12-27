@@ -1,0 +1,49 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "BirthMessage_Adoption": "夜間，收養機構送來了你的新生{0}嬰兒。",
+        "BirthMessage_PlayerMother": "夜間，你生下了一個{0}嬰兒。",
+        "BirthMessage_SpouseMother": "夜間， {1}生下了一個{0}嬰兒。",
+        "BirthMessage_SpouseNaming_Male": "{0} 正在給你的男寶寶取名字。",
+        "BirthMessage_SpouseNaming_Female": "{0} 正在給你的女寶寶取名字。",
+        "BabyNamingTitle_Male": "該給他取什麼名字？",
+        "BabyNamingTitle_Female": "該給他取什麼名字？",
+        "HaveBabyQuestion": "我們要不要生個寶寶，{0}？",
+        "HaveBabyQuestion_Adoption": "我們要不要收養個寶寶，{0}？",
+        "HaveBabyAnswer_Yes": "是",
+        "HaveBabyAnswer_No": "暫時沒這個打算……",
+        "HavePlayerBabyQuestion": "你想和 {0} 一起生個寶寶嗎？",
+        "HavePlayerBabyQuestion_Adoption": "你想和 {0} 一起收養個寶寶嗎？",
+        "SpouseFlowerDanceAccept_Shane": "跳舞？好呀。等我一下，我先多吃幾個……",
+        "SpouseFlowerDanceAccept_Emily": "當然好呀，甜心。我期待這一刻很久了！$h",
+        "AnimalBirth": "夜間，{0}生下了一個{1}嬰兒。",
+        "AnimalNamingTitle": "為您的新生{0}寶寶取名：",
+        "SoundInTheNight_UFO": "夜間傳來一道奇怪的聲音……",
+        "SoundInTheNight_Meteorite": "夜間傳來一道爆炸聲……",
+        "SoundInTheNight_Earthquake": "夜間發生了一場地震。",
+        "BeachNightMarket_NowOpen": "夜市正在進行。",
+        "Maru_comet5": "這讓我感受到，能和你一起生活在這個充滿活力的世界上，是多麼快樂的事情！",
+        "Maru_comet4": "如此空虛而孤獨……",
+        "Maru_comet3": "這是它無限的旅程中短暫的一刻。",
+        "Maru_comet2": "宇宙中罕見的奇蹟……",
+        "Maru_comet1": "很漂亮，不是嗎？",
+        "ElliottBook_mystery": "藍塔",
+        "ElliottBook_romance": "茶花車站",
+        "ElliottBook_default": "亞索行星的興旺史"
+    }
+}

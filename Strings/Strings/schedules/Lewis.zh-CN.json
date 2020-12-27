@@ -1,0 +1,28 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "fall_9.000": "呃……哈維醫生？你一定會保密的吧？",
+        "15.000": "我喜歡檢查當地的生意，看看他們做的怎麼樣。",
+        "6.000": "我是來向克林特收稅的。",
+        "1.000": "嗯，這季節的魚聞起來很新鮮啊。",
+        "Tue.000": "食品雜貨什麼的我都來這買。$h",
+        "3.000": "我來只是為了確保瑪妮的經營需求得到滿足。",
+        "6.001": "圖書館是鵜鶘鎮的最大特色之一。是用本地的商務稅收投資建的。",
+        "winter_16.000": "如你知道，我從這個市場上買了些我最喜歡的東西..."
+    }
+}

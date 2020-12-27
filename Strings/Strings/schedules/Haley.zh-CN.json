@@ -1,0 +1,27 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "winter_9.000": "沒什麼……我只是來做年度體檢的！",
+        "winter_9.001": "嗯……醫生，只是有點流鼻涕。除此以外都很好！",
+        "winter.000": "天氣冷得我不想起床。",
+        "marriage_Mon.000": "嗨，甜心！我來這裡是為了探望艾米麗。",
+        "rain.000": "這天氣太糟了，不宜起床。",
+        "winter_16.001": "Brrr....我並非為此才穿衣打扮...$s",
+        "winter_16.000": "太冷了，不想起床。"
+    }
+}

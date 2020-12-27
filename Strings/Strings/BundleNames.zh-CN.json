@@ -1,0 +1,37 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Rare Crops": "稀有作物",
+        "Fish Farmer's": "漁夫",
+        "Garden": "花園",
+        "Brewer's": "釀酒師",
+        "Quality Fish": "優質魚",
+        "Master Fisher's": "釣魚大師",
+        "Treasure Hunter's": "寶藏獵人",
+        "Children's": "兒童",
+        "Forager's": "採集者",
+        "Home Cook's": "家庭廚師",
+        "Wild Medicine": "野生藥材",
+        "Sticky": "黏糊糊",
+        "Engineer's": "工程師",
+        "Slime Farmer's": "史萊姆飼養主",
+        "Beekeeper's": "養蜂人",
+        "Prospector's": "探礦者",
+        "Archaeologist's": "考古學家"
+    }
+}

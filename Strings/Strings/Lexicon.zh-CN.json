@@ -1,0 +1,44 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "RandomNegativeItemNoun": "垃圾#廢物#廢品#汙水#糞便",
+        "RandomPositiveAdjective_Child": "酷炫#有趣#真俐落#非常好#漂亮#超級棒#太棒了",
+        "RandomPositiveAdjective_AdultMale": "有趣#激動人心#真俐落#有趣#太棒了#精彩",
+        "RandomPositiveAdjective_AdultFemale": "極好#令人驚異#溫馨感人#神奇#不可思議#可愛# 招人喜歡#令人愉快",
+        "RandomPositiveAdjective_PlaceOrEvent": "極好#令人驚異#溫馨感人#神奇#不可思議#可愛# 招人喜歡#令人愉快",
+        "RandomNegativeAdjective_Child": "愚蠢#十分愚蠢#真差勁#無聊#低能",
+        "RandomNegativeAdjective_AdultMale": "可怕#糟糕#討厭#無聊#令人沮喪#卑鄙#可笑",
+        "RandomNegativeAdjective_AdultFemale": "悲哀#無聊#壓力山大#令人沮喪#可憐#幼稚#卑鄙",
+        "RandomNegativeAdjective_PlaceOrEvent": "悲哀#無聊#壓力山大#令人沮喪#可憐#幼稚#卑鄙",
+        "RandomDeliciousAdjective": "美味#可口#極好#滿意的#酒飽飯足#令人垂涎#開胃#令人愉快",
+        "RandomDeliciousAdjective_Child": "好吃",
+        "RandomNegativeFoodAdjective_Child": "令人不快",
+        "RandomNegativeFoodAdjective_Polite": "……有趣#……不平常#……不同的#……非傳統",
+        "RandomNegativeFoodAdjective": "骯髒#令人不快#噁心#卑鄙#令人作嘔#令人厭惡#可怕#令人#使人嘔吐#骯髒惡臭#極其可怕#腐臭",
+        "RandomSlightlyPositiveFoodAdjective": "相當好#挺好#可以吃",
+        "ChildTerm_Male": "男孩",
+        "ChildTerm_Female": "女孩",
+        "Pronoun_Male": "他",
+        "Pronoun_Female": "她",
+        "QuestionDialogue_Yes": "是",
+        "QuestionDialogue_No": "否",
+        "GenericPlayerTerm": "農夫",
+        "Possessive_Pronoun_Male": "他的",
+        "Possessive_Pronoun_Female": "她的"
+    }
+}

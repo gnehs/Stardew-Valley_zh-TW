@@ -1,0 +1,21 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "9348571/Hl willyBoatFixed": "ocean/6 8/farmer -1000 -1000 0 Willy -1000 -1000 0/skippable/pause 4000/warp farmer 6 12/playSound doorClose/move farmer 0 -2 0/emote farmer 8/pause 1500/warp Willy 6 12/playSound doorClose/move Willy 0 -1 0/pause 500/emote Willy 28/pause 250/move farmer 1 0 0/move Willy 0 -1 0/pause 700/speak Willy \"唉……看起來讓人挺傷感，是吧？\"/pause 500/speak Willy \"是我父親的船……陪他度過了 50 多年。#$b#不過現在連浮在水面上都很吃力。$s\"/faceDirection Willy 1/faceDirection farmer 3/speak Willy \"我想親自去修，但是沒有合適的材料，小伙子。^我想親自去修，但是沒有合適的材料，小姑娘。\"/faceDirection Willy 0/speak Willy \"是……我們先要 200 塊硬木用來把船體修補好。#$b#不過之後還得修好售票機，還有銥錨。\"/faceDirection farmer 0/pause 400/speak Willy \"如果你能幫我找來合適的材料，讓我好修理這艘船……嗯，那我就可以帶你去芬群島。\"/faceDirection Willy 1/faceDirection farmer 3/speak Willy \"據說有火山島嶼，上面有好多奇怪的鸚鵡……\"/pause 400/quickQuestion #我願意幫忙#不，算了……(break)emote Willy 32\\speak Willy \"好嘞……我知道你會幫忙的，小伙子。$h^好嘞……我知道你會幫忙的，小姑娘。$h\"\\speak Willy \"這扇門我就給你開著……你收集好材料之後可以隨時來這裡擺好。\"(break)emote Willy 28\\speak Willy \"好吧，隨你便……$s#$b#如果你改變主意了，可以會來這裡幫忙。我還是把這扇門開著。\"/pause 2000/end"
+    }
+}

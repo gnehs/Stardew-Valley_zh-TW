@@ -1,0 +1,30 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Sun.000": "我們藏在這裡，這樣就不用和任何人說話。",
+        "marriage_Mon.002": "呃……我還是不能獨自從通它。$s",
+        "spring_4.000": "啊……我一會約了醫生。$s",
+        "marriage_Fri.001": "再次看到老朋友們很高興。什麼都沒變。$h",
+        "spring_4.002": "還需要多久啊，醫生？我餓了。$s",
+        "marriage_Mon.001": "嘿，@。我喜歡在這裡放鬆……如此寧靜。",
+        "marriage_Fri.000": "怎麼了，@？我只是在跟媽媽打招呼。",
+        "marriage_Mon.000": "沒有我在身邊，爸爸似乎還好。",
+        "winter_15.000": "太神秘了...我喜歡！",
+        "spring_4.001": "我只是來做年度體檢的！別擔心，我沒有懷……我是說，我沒生病！呵呵。$9"
+    }
+}

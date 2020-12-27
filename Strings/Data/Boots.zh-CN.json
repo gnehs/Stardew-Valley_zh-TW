@@ -1,0 +1,42 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.Int32Reader",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "504": "Sneakers/有點單薄……但是時尚嘛！/50/1/0/0/運動鞋",
+        "505": "Rubber Boots/提供元素保護。/50/0/1/1/橡膠靴",
+        "506": "Leather Boots/這種皮革非常柔軟。/50/1/1/2/皮靴",
+        "507": "Work Boots/強化了鋼鐵作為額外防護。/50/2/0/3/工作靴",
+        "508": "Combat Boots/強化了鐵絲作防護。/150/3/0/4/戰靴",
+        "509": "Tundra Boots/毛茸茸的材質保持你的腳跟溫暖。/150/2/1/5/凍土靴",
+        "510": "Thermal Boots/設計於惡劣氣候地帶使用。/50/1/2/6/熱能靴",
+        "511": "Dark Boots/使用黑色粗厚皮革所打造。/250/4/2/7/黑暗之靴",
+        "512": "Firewalker Boots/據說能夠承受最高溫的熔岩。/250/3/3/8/蹈火者靴",
+        "513": "Genie Shoes/奇怪的能量圍繞著鞋面。/250/1/6/9/神怪之鞋",
+        "514": "Space Boots/銥編織，所以散發著紫色亮光。/450/4/4/10/太空之靴",
+        "515": "Cowboy Boots/鄉下人的時尚高度。/250/2/2/11/牛仔之靴",
+        "804": "Emily's Magic Boots/艾米麗愛心打造。100% 可降解！/250/4/4/13/艾米麗的魔法靴",
+        "806": "Leprechaun Shoes/搭扣是純金做的。/250/2/1/14/矮精靈鞋子",
+        "853": "Cinderclown Shoes/這雙神奇鞋子的主人是一位著名的矮人小丑。/1000/6/5/15/灰燼小丑鞋",
+        "854": "Mermaid Boots/美人魚鱗片給這雙靴子賦予了保護光環。/1000/5/8/16/美人魚靴",
+        "855": "Dragonscale Boots/這雙閃爍光芒的靴子非常堅韌。/1000/7/0/17/龍鱗靴",
+        "878": "Crystal Shoes/這雙閃閃發光的鞋子會保護好你的腳。/1000/3/5/18/水晶鞋"
+    }
+}

@@ -1,0 +1,26 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Thu.000": "我在這裡留下了好多回憶。謝謝你把這裡恢復原狀。$h",
+        "2.001": "哦，親愛的，你怎麼來了？難道要看急診？$s",
+        "winter_17.000": "雖然這是鵜鶘鎮的新傳統之一...但我們已相當迅速地接受了這一傳統。喬治，是吧？",
+        "23.000": "哦，親愛的……最好讓哈維醫生給你檢查一下。他可是個不錯的小伙子！行為端重點，就算是看在你老妻的份上。",
+        "23.001": "能檢查一下他的肺部嗎？他最近總喘不過氣。",
+        "2.000": "等你到我這個年紀，就要經常看醫生了。"
+    }
+}

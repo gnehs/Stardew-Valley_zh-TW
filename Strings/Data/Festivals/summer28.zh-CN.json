@@ -1,0 +1,59 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "name": "月光水母之舞",
+        "conditions": "Beach/2200 2400",
+        "shop": "F 2626 800 -1 F 1687 1200 -1 F 1692 1200 -1 F 2631 1000 -1 F 2875 4000 -1 O 265 5000 1",
+        "set-up": "ocean/-1000 -1000/farmer 38 3 2/changeToTemporaryMap Beach-Jellies/loadActors Set-Up/advancedMove Vincent true 0 12 3 3000 2 0 1 3000 0 -12 -2 0 3 3000/advancedMove Jas true 0 2 3 5000 0 -2 3 5000/advancedMove Clint false 2 50000 -2 0 3 500 2 1000 3 1000 1 0 2 1000/advancedMove Harvey True 0 -12 -10 0 0 6 2 25000 0 -6 10 0 0 12 2 25000/viewport 38 2 clamp true/pause 1000/playerControl jellies",
+        "mainEvent": "pause 500/globalFade/viewport -1000 -1000/changeLocation Beach/warp farmer1 28 36/warp spouse 29 36/faceDirection spouse 2/warp farmer2 29 35/warp farmer3 34 36/warp farmer4 35 36/faceDirection farmer1 2/faceDirection farmer2 2/faceDirection farmer3 2/faceDirection farmer4 2/specificTemporarySprite candleBoat/viewport 26 36 true/pause 2000/move Lewis 0 1 2/move Lewis -2 0 3/pause 400/showFrame Lewis 16 true/animate Lewis false false 200 25 16 17 17/pause 800/playSound parry/specificTemporarySprite candleBoatMove/pause 500/showFrame Lewis 0 true/animate Lewis false false 200 25 12/pause 400/faceDirection Lewis 2/pause 6000/specificTemporarySprite moonlightJellies/pause 10000/playMusic moonlightJellies/pause 30000/viewport move -1 0 8000/pause 10000/viewport move 1 0 20000/pause 18000/globalFade/viewport -1000 -1000/pause 2000/playMusic none/pause 1000/message \"夏日的光芒漸漸消失……而月光水母繼續向著神秘的未知世界前行。\"/pause 1000/waitForOtherPlayers festivalEnd/end",
+        "Leah_spouse": "啊，我在致敬又一個離我們遠去的夏季。 等開始放燭燈船時我會來找你的。",
+        "Abigail": "想想都讓人有點小激動…… ",
+        "Robin": "*哈欠*……一不留神都過了我一般的就寢時間。$s#$e#嘿，看見那艘燭燈船了嗎？那是我親手做的。$h",
+        "Demetrius": "“月光水母”……多麼奇特的生物啊！它們在南遷的漫長旅途中會停歇於此，真是我們的福氣。#$e#不過還是很好奇它們為什麼會趨光而行。",
+        "Maru": "天氣有點冷了。秋天快要來臨了。",
+        "Sebastian": "我好像看到那邊有些東西……龐大而黑暗的怪物。#$e#哈哈，嚇唬你而已……$h",
+        "Pierre": "喂……記得明天到店裡來拿你的秋季種子！",
+        "Caroline": "好多好多蠟燭，好浪漫啊！你覺得呢？",
+        "Linus": "等水母抵達後我就潛行過去……我不想驚動任何人。",
+        "Alex": "難以置信夏天就這麼結束了……宛如昨天才剛開始。$s",
+        "George": "你幹嘛這樣看著我？是不是覺得我一把年紀了就不適合這種場合？",
+        "Evelyn": "我小時候曾經見過水母。嗷，那時候看見水母抵達我那叫一個興奮啊！#$e#不過都是很久以前的事了……我現在已經沒有那麼精力充沛了。",
+        "Lewis": "晚安，@。月光水母快來臨了……我已經看到了遠方傳來的微光。#$b#等我們把燭燈船放出去，它們就會被吸引過來跟我們打招呼。",
+        "Clint": "我今晚穿上了最美麗的鞋子……但卻沒人欣賞。$s",
+        "Emily": "你看那漫漫海洋的水底下，各式各樣的生物在黑暗中游走。#$b#是不是好恐怖的樣子？",
+        "Penny": "水母的生活過得真輕鬆……隨波逐流，一生全靠浪。",
+        "Pam": "今晚沒有大餐我好失望啊，不過你別告訴格斯。",
+        "Haley": "真該帶上相機的！我老是不記得。$s",
+        "Jodi": "那裡！有東西在發光！#$b#唉！一眨眼就消失了。$s",
+        "Kent": "晚安，@。希望你能在收穫季節前找點時間放鬆一下。",
+        "Sam": "不知道它們有沒有毒？#$e#有點後悔把塞巴斯蒂安推進水裡了……$h",
+        "Leah": "啊，我在致敬又一個離我們遠去的夏季。",
+        "Shane": "水母一年前來過這裡，一年後今天又來了，明年今日還會再來……大自然真是奇妙。",
+        "Marnie": "這麼陳舊的木製碼頭卻擠滿了人！我還是待在沙灘上吧。",
+        "Elliott": "我們繼續汙染海水的話，水母肯定會滅絕的。這事已經有徵兆了。#$e#可惜啊……人們都不再畏懼大自然了。",
+        "Gus": "“月光水母”……不知道嘗起來味道如何？$h#$b#不過，我當然不會對它們下毒手的，嗯嗯，一定不會！$u",
+        "Dwarf": "地面上下雨了？*喘氣*#$e#下雨……這是個很陌生的概念。我們大部分人一輩子都沒經歷過下雨。",
+        "Wizard": "你是怎麼找到我的？我還以為躲藏得很隱秘呢。#$b#也許是你的洞察力超凡入聖。#$e#其實我是來看露娜洛爾的……也就是你們所謂的月光水母。它們的生命形式讓我很好奇。",
+        "Harvey": "嗯，夏天結束了。其實我很高興，終於能擺脫那煩人的蚊子了！",
+        "Sandy": "聽說家鄉在下雨。你是為避雨才跑來這裡的嗎？$h#$e#話說我有點懷念雨景了……$s",
+        "Jas": "希望今年會有寶寶誕生！",
+        "Vincent": "好想看罕見的綠色水母！",
+        "Willy": "大部分夜間水生生物都畏光……這些水母真奇特。",
+        "Leo": "月光水母是我的老朋友了……它們每年也都會來到島上。"
+    }
+}

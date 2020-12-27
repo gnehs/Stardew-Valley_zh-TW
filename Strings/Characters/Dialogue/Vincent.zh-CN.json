@@ -1,0 +1,39 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Introduction": "哦，陌生人啊！我叫文森特。#$b#媽媽跟我說不要和陌生人說話……但你看來是個好人。",
+        "Resort_Entering": "真好玩！以後我想當個船長！",
+        "Resort_Leaving": "真想早點再來玩！",
+        "Resort_Shore": "我想看鯊魚！$h",
+        "Resort": "如果湊近了看，你就能看到沙子裡有小蟲子跳出來。$h",
+        "reject_869": "噢噢噢！不錯的發現！#$b#但是，媽媽不會讓我留下他的……$s",
+        "Mon": "等我長大了，我也要像哥哥一樣！$h#$e#好的！再見。",
+        "Mon4": "$d kent#我很高興爸爸回來了……但已經和我記憶中不同了……$s|爸爸總是不在家……好想和他一起玩。$s",
+        "Tue": "*唉* ……媽媽今天不讓我再多吃軟糖了。$s",
+        "Tue6": "你能為我保守個秘密嗎，先生？^你能為我保守個秘密嗎，女士？$u#$b#我長大後想娶潘妮小姐為妻。#$e#不要告訴她，好嗎？$u",
+        "Wed": "我想去捉蟲子，但每次搞得髒兮兮又會被媽媽罵。$u#$b#真是艱難的抉擇啊。",
+        "Thu": "好餓啊……媽媽呢？$s",
+        "Thu2": "你不像大多數大人們那麼無聊呢！",
+        "Fri": "#$c .3#呃，又是煮甜菜……$s#$e#糟了……我媽今晚會做扁豆湯。$s",
+        "Sat_1": "爸爸就要回來啦！#$b#不知他有沒有給我買玩具回來呢。$u",
+        "Sat": "潘妮小姐每週都要求我讀一本新書。$s#$b#至少有時候她還會讓我來選書！",
+        "Sat8": "$d kent#爸爸回來之後似乎變了很多。不知出了什麼事呢？$s#$b#他都不和我玩了。$s|我想知道爸爸是否還會回家……$s",
+        "Sun": "你好啊，先生！^你好啊，女士。",
+        "Sun10": "你好啊，@叔叔!^嗨，@姑媽!#$e#別告訴我媽……不過大人裡面我最喜歡你了。$h"
+    }
+}

@@ -1,0 +1,28 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "spring_11.003": "文森特今天在醫生那裡表現得非常勇敢。我為他感到驕傲。",
+        "winter_17.000": "像他們一樣周遊世界一定很刺激...*嘆息* ...",
+        "spring_11.001": "勇敢一點，文森特。想想你的父親。",
+        "Tue.000": "噢……我的手臂像凝膠一樣軟…… $s",
+        "spring.000": "噓……他睡著了。",
+        "spring_18.000": "嘿！你怎麼能打斷別人的私人預約！$u",
+        "spring_11.002": "哈維醫生？我有點擔心文森特的個頭。在這個年紀的小孩中，他會不會矮了點？",
+        "spring_11.000": "文森特最討厭去看醫生了，但不管如何他還是得去檢查。"
+    }
+}

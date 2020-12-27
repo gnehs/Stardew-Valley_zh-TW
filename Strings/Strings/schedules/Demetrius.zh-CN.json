@@ -1,0 +1,23 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "winter_16.000": "我強烈推薦潛艇之旅。在深海中生活一些非常迷人的生物。",
+        "summer_25.000": "寒冷的季節就要來了，我是來打流感疫苗的。",
+        "summer_25.001": "哈維醫生，你讀了最新一期的《生物醫學》嗎？裡面有篇文章你可能會感興趣。"
+    }
+}

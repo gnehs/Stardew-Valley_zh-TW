@@ -1,0 +1,26 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "winter_18.000": "我今天要去看醫生，不過我不怕！",
+        "winter_15.001": "我希望我已到了可以看到美人魚秀的年齡...$s",
+        "winter_18.001": "哈維醫生，能告訴我這東西怎麼用嗎？",
+        "summer.000": "1……2……3……4……又來了一個巨浪！*咯咯*$h",
+        "winter_15.000": "1...2...3...4...哦，不！我又搞砸了。",
+        "spring.000": "1……2……3……4……哎呀！我又搞砸了。"
+    }
+}

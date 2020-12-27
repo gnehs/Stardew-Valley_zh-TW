@@ -1,0 +1,68 @@
+﻿{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "name": "冬日星盛宴",
+        "conditions": "Town/900 1400",
+        "shop": "F 2625 1000 -1 F 1745 800 -1 F 1747 500 -1 F 1678 1000 -1 F 1390 700 -1 F 807 3000 -1 F 2798 1000 -1 F 2634 1000 -1 F 2633 500 -1 F 2635 500 -1 F 2636 700 -1 F 1440 5000 -1 F 1296 800 -1",
+        "set-up": "christmasTheme/-1000 -1000/farmer 12 54 1/changeToTemporaryMap Town-Christmas/loadActors Set-Up/playerControl christmas",
+        "secretSanta": "none/-1000 -1000/farmer 30 69 0/warp Emily 37 59/warp Haley 35 74/warp secretSanta 29 75/faceDirection secretSanta 0/viewport 30 67 true/pause 2000/move secretSanta 0 -4 0/move secretSanta 1 0 0/pause 500/shake secretSanta 100/playSound stoneStep/specificTemporarySprite secretGift/pause 100/faceDirection farmer 2/pause 200/jump farmer/pause 700/emote farmer 16/pause 100/move secretSanta -1 0 0/move secretSanta 0 -2 0/pause 700/faceDirection farmer 3/pause 300/faceDirection farmer 0/pause 500/faceDirection secretSanta 1/pause 500/speak secretSanta \"dialogue1\"/pause 300/faceDirection farmer 2/pause 800/showFrame 4/pause 300/playSound cut/specificTemporarySprite secretGiftOpen/pause 400/stopAnimation farmer/faceDirection farmer 2/pause 1000/cutscene addSecretSantaItem/pause 3000/null/faceDirection farmer 3/speak secretSanta \"dialogue2\"/pause 600/eyes 1 -1500/emote farmer 32/pause 1000/globalFade/viewport -1000 -1000/warp Emily 29 72/warp Haley 30 72/warp secretSanta warpX warpY/faceDirection farmer 2/cutscene clearTempSprites/playMusic christmasTheme/viewport 30 67 true/playerControl christmas2",
+        "Abigail_spouse": "不知道能不能嘗一嘗那些甘蔗……",
+        "Leah_spouse": "我很感恩現在過著的平凡生活。$h",
+        "Maru_spouse": "嘿，@。我準備好回家了，就看你了。",
+        "Penny_spouse": "我很感恩在生命中遇到你……$l",
+        "Haley_spouse": "我嗎？……嗯，我很感恩……不如今晚到家後我再用行動告訴你吧？$l",
+        "Sebastian_spouse": "嘿，@。你沒看見嗎，我在履行我的家庭義務……",
+        "Sam_spouse": "*哈欠*……我是為了這裡的禮物和餅乾才來的。$h",
+        "Alex_spouse": "我想感恩什麼？等回到家後我會用行動告訴你……$l",
+        "Harvey_spouse": "我感覺有點驚慌失措……謝天謝地，這裡的空氣真清新……$l",
+        "Elliott_spouse": "你不需要送我什麼東西，你已經給了我最好的禮物……$l",
+        "Abigail": "在寒冬中享用熱氣騰騰的食物，夫復何求啊？$h",
+        "Robin": "嘿，@。你要是空虛寂寞冷的話，可以跟我們一家人一起吃飯啊。$h",
+        "Demetrius": "看來今年是要破費買一套新工具了……*唉*",
+        "Maru": "你好啊，@。$h",
+        "Shane": "有人相信神明，有人相信魔法……至於我？我還從未見過科學解釋不了的事情。",
+        "Sebastian": "跟家人在一起有時候是很累人的事。",
+        "Pierre": "我生意近來很紅火……多虧了冬日星盛宴！$h#$e#小子，逢年過節總能賺得盆滿缽滿。要是我能發明些節日就好了……",
+        "Caroline": "噢噢……我喝多了。$h",
+        "Linus": "我會赴宴的……不過應該沒有人會在乎。$s",
+        "Alex": "哦，你好。$s",
+        "George": "為天上的星星慶祝？有毛病！",
+        "Evelyn": "天啊！你不冷嗎，親？都要凍死我了！",
+        "Lewis": "今天是慶祝今年大豐收的日子。暫時拋卻一切煩惱，盡情去享樂吧！",
+        "Clint": "*唉* ……羨煞旁人的家庭團聚。而我還是單身一人，好氣哦。",
+        "Emily": "$y '@！你想在聖誕樹下找到什麼東西？_新的噴壺。_只用功不玩耍是很無聊的。$s_香料蜂蜜酒。_喲……很不錯的樣子。記得告訴我味道如何。$h_時尚的靴子。_哈，非常不錯的禮物！'",
+        "Penny": "好美麗的樹。$h",
+        "Pam": "唉……沒有贏得冰釣比賽，我好難過。$4",
+        "Haley": "希望我的聖誕禮物是部相機！",
+        "Jodi": "此時此刻並非減肥的好日子……$s",
+        "Kent": "午安，@。節日快樂。",
+        "Sam": "收到了吉他和滑板，感恩上帝。還有我的家人。",
+        "Leah": "格斯在跟我吹噓他自己做的拐杖糖。*哈欠*$u#$e#我覺得他肉桂放多了。",
+        "Marnie": "歡迎來到冬日星盛宴！$h",
+        "Elliott": "哈囉，@。天氣好冷啊，對不？",
+        "Gus": "做糖拐杖是一門藝術。你得漫山遍野地尋找最適合的原料。這年頭可難找了！$h#$e#我通常用芬群島果乾做糖拐杖，這樣才能保證質量。那亮麗的紅色實在是太合適了……還是純天然的！#$e#哦，你想知道製作頂級雙拐杖糖的秘訣？告訴你可以，不過一定要保密啊。*細語*在白色果糖裡面加入一點點香草，再與櫻桃混合就行了。$h#$e#當然了，薄荷味拐杖糖也是很受歡迎的，所以我也會做很多這種口味的。#$e#喂，你看起來快要睡著了。你沒事吧？$s",
+        "Willy": "$y '想不想聽冬日星的傳說？_想_在冬日的夜空中，有一顆閃亮的星星，只能從此谷中看見。沒人知道為什麼……在古時候，來自四面八方的人會聚集於此來看它。*他們相信看見星星的人會交上好運。甚至有人說被稱為=星之果實的神秘水果是跟冬日星有某種程度的聯繫。_不用_那隨你吧。'",
+        "Wizard": "啊，神秘的冬日星。它正是我選擇此地進行……研究的原因之一。",
+        "Harvey": "我很感恩今年沒有人突發急症進醫院！",
+        "Sandy": "聽說家鄉在下雨。你是為避雨才跑來這裡的嗎？$h#$e#話說我有點懷念雨景了……$s",
+        "Jas": "噢！好多禮物！$h",
+        "Vincent": "可以現在就打開嗎？！",
+        "Marlon": "嗨，午安。",
+        "Leo": "萊納斯感覺參加活動不太自在，所以我準備陪著他。#$e#我們打算自己舉辦一個小型宴會……會有冬根泥和香味漿果魚！$h"
+    }
+}
