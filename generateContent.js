@@ -48,4 +48,4 @@ function parseFonts(d) {
 }
 parseFonts('./Fonts')
 
-fs.writeFileSync('content.json', JSON.stringify(result))
+fs.writeFileSync('content.json', JSON.stringify(result, null, '    '))
