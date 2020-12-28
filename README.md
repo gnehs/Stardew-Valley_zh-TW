@@ -3,17 +3,24 @@
 ## 下載
 https://github.com/gnehs/Stardew-Valley_zh-TW/archive/%E8%B9%A6%E8%B9%A6.zip
 
-- 目前適用版本 `1.15.1`
+- 目前適用星露谷版本 `1.15.1`
 - 需要 SMAPI 與 ContentPatcher
 - 下載並解壓縮後放到 `/Mods` 目錄即可
-- 在 macOS 上你可能需要執行此指令才能正常運作 `brew install mono-libgdiplus`
+- 在非 Windows 系統上你可能需要 libgdiplus 才能正常運作
+    - macOS: `brew install mono-libgdiplus`
 ## 貢獻指南
 - 各個資料夾內都有相關 `README.md` 可供查閱
 ### 協助翻譯
+#### 文本
 - 請修改 `/Strings` 裡的檔案而不是 `content.json`
-### `generateContent.js`
-- 使用該檔案來產生 `content.json`
+- 請按照 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines) 進行修改
+#### 圖片
+- 直接修改即可
+### 關於 `content.json`
+- 使用 `generateContent.js` 來產生 `content.json`
 - 必須先安裝 [Node.js](https://nodejs.org/)
 - 步驟：
     - `cd <path>`
     - `node generateContent.js` 
+## 特別感謝
+- @coin3x 提供技術支援
