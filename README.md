@@ -24,3 +24,4 @@ https://github.com/gnehs/Stardew-Valley_zh-TW/archive/%E8%B9%A6%E8%B9%A6.zip
     - `node generateContent.js` 
 ## 特別感謝
 - [@coin3x](https://github.com/coin3x) 提供技術支援
+- 部分圖片素材取自 [【討論】星露谷物語v1.4文本、介面和地圖繁體中文化 - 巴哈姆特](https://forum.gamer.com.tw/C.php?bsn=20774&snA=1660&tnum=29)
