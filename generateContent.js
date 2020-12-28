@@ -72,4 +72,8 @@ function parseImgs(d) {
 }
 parseImgs('./Images')
 
-fs.writeFileSync('content.json', JSON.stringify(result, null, '    '))
+fs.writeFileSync(
+    'content.json',
+    '// 這個檔案是由程式產生的，請勿直接修改\n' +
+    '// 修改翻譯請參考 README.md\n' +
+    JSON.stringify(result, null, '    '))
