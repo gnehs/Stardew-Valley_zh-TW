@@ -11821,126 +11821,126 @@
         {
             "Action": "Load",
             "Target": "LooseSprites/Billboard",
-            "FromFile": "Images/LooseSprites/Billboard.zh-CN.png"
+            "FromFile": "Images/LooseSprites/Billboard.png"
         },
         {
             "Action": "Load",
             "Target": "LooseSprites/ControllerMaps",
-            "FromFile": "Images/LooseSprites/ControllerMaps.zh-CN.png"
+            "FromFile": "Images/LooseSprites/ControllerMaps.png"
         },
         {
             "Action": "Load",
             "Target": "LooseSprites/Cursors",
-            "FromFile": "Images/LooseSprites/Cursors.zh-CN.png"
+            "FromFile": "Images/LooseSprites/Cursors.png"
         },
         {
             "Action": "Load",
             "Target": "LooseSprites/JojaCDForm",
-            "FromFile": "Images/LooseSprites/JojaCDForm.zh-CN.png"
+            "FromFile": "Images/LooseSprites/JojaCDForm.png"
         },
         {
             "Action": "Load",
             "Target": "LooseSprites/JunimoNote",
-            "FromFile": "Images/LooseSprites/JunimoNote.zh-CN.png"
+            "FromFile": "Images/LooseSprites/JunimoNote.png"
         },
         {
             "Action": "Load",
             "Target": "Maps/DesertTiles",
-            "FromFile": "Images/Maps/DesertTiles.zh-CN.png"
+            "FromFile": "Images/Maps/DesertTiles.png"
         },
         {
             "Action": "Load",
             "Target": "Maps/Festivals",
-            "FromFile": "Images/Maps/Festivals.zh-CN.png"
+            "FromFile": "Images/Maps/Festivals.png"
         },
         {
             "Action": "Load",
             "Target": "Maps/fall_beach",
-            "FromFile": "Images/Maps/fall_beach.zh-CN.png"
+            "FromFile": "Images/Maps/fall_beach.png"
         },
         {
             "Action": "Load",
             "Target": "Maps/fall_outdoorsTileSheet",
-            "FromFile": "Images/Maps/fall_outdoorsTileSheet.zh-CN.png"
+            "FromFile": "Images/Maps/fall_outdoorsTileSheet.png"
         },
         {
             "Action": "Load",
             "Target": "Maps/fall_town",
-            "FromFile": "Images/Maps/fall_town.zh-CN.png"
+            "FromFile": "Images/Maps/fall_town.png"
         },
         {
             "Action": "Load",
             "Target": "Maps/samshowtiles",
-            "FromFile": "Images/Maps/samshowtiles.zh-CN.png"
+            "FromFile": "Images/Maps/samshowtiles.png"
         },
         {
             "Action": "Load",
             "Target": "Maps/spring_beach",
-            "FromFile": "Images/Maps/spring_beach.zh-CN.png"
+            "FromFile": "Images/Maps/spring_beach.png"
         },
         {
             "Action": "Load",
             "Target": "Maps/spring_outdoorsTileSheet",
-            "FromFile": "Images/Maps/spring_outdoorsTileSheet.zh-CN.png"
+            "FromFile": "Images/Maps/spring_outdoorsTileSheet.png"
         },
         {
             "Action": "Load",
             "Target": "Maps/spring_town",
-            "FromFile": "Images/Maps/spring_town.zh-CN.png"
+            "FromFile": "Images/Maps/spring_town.png"
         },
         {
             "Action": "Load",
             "Target": "Maps/summer_beach",
-            "FromFile": "Images/Maps/summer_beach.zh-CN.png"
+            "FromFile": "Images/Maps/summer_beach.png"
         },
         {
             "Action": "Load",
             "Target": "Maps/summer_outdoorsTileSheet",
-            "FromFile": "Images/Maps/summer_outdoorsTileSheet.zh-CN.png"
+            "FromFile": "Images/Maps/summer_outdoorsTileSheet.png"
         },
         {
             "Action": "Load",
             "Target": "Maps/summer_town",
-            "FromFile": "Images/Maps/summer_town.zh-CN.png"
+            "FromFile": "Images/Maps/summer_town.png"
         },
         {
             "Action": "Load",
             "Target": "Maps/townInterior",
-            "FromFile": "Images/Maps/townInterior.zh-CN.png"
+            "FromFile": "Images/Maps/townInterior.png"
         },
         {
             "Action": "Load",
             "Target": "Maps/winter_beach",
-            "FromFile": "Images/Maps/winter_beach.zh-CN.png"
+            "FromFile": "Images/Maps/winter_beach.png"
         },
         {
             "Action": "Load",
             "Target": "Maps/winter_outdoorsTileSheet",
-            "FromFile": "Images/Maps/winter_outdoorsTileSheet.zh-CN.png"
+            "FromFile": "Images/Maps/winter_outdoorsTileSheet.png"
         },
         {
             "Action": "Load",
             "Target": "Maps/winter_town",
-            "FromFile": "Images/Maps/winter_town.zh-CN.png"
+            "FromFile": "Images/Maps/winter_town.png"
         },
         {
             "Action": "Load",
             "Target": "Minigames/Intro",
-            "FromFile": "Images/Minigames/Intro.zh-CN.png"
+            "FromFile": "Images/Minigames/Intro.png"
         },
         {
             "Action": "Load",
             "Target": "Minigames/TitleButtons",
-            "FromFile": "Images/Minigames/TitleButtons.zh-CN.png"
+            "FromFile": "Images/Minigames/TitleButtons.png"
         },
         {
             "Action": "Load",
             "Target": "Minigames/jojacorps",
-            "FromFile": "Images/Minigames/jojacorps.zh-CN.png"
+            "FromFile": "Images/Minigames/jojacorps.png"
         },
         {
             "Action": "Load",
-            "Target": "TileSheets/furniture.png",
+            "Target": "TileSheets/furniture",
             "FromFile": "Images/TileSheets/furniture.png"
         }
     ]

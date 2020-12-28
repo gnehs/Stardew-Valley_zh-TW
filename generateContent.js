@@ -59,7 +59,7 @@ function parseImgs(d) {
             try {
                 result.Changes.push({
                     "Action": "Load",
-                    "Target": itemPath.replace('./Images/', '').replace('.zh-CN.png', ''),
+                    "Target": itemPath.replace('./Images/', '').replace('.png', ''),
                     "FromFile": itemPath.replace('./', '')
                 })
             } catch (e) {
