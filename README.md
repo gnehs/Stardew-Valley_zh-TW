@@ -23,4 +23,4 @@ https://github.com/gnehs/Stardew-Valley_zh-TW/archive/%E8%B9%A6%E8%B9%A6.zip
     - `cd <path>`
     - `node generateContent.js` 
 ## 特別感謝
-- @coin3x 提供技術支援
+- [@coin3x](https://github.com/coin3x) 提供技術支援
